@@ -1,4 +1,4 @@
-# AB-TOH-PADHLE
+# LETS LEARN TOGETHER
 **🤖📚 Textbook Chatbot**
 
 This project is a chatbot designed to assist students in interacting with their textbooks in a conversational manner. The chatbot has been developed using the RAG (Retrieval-Augmented Generation) model, which enables it to understand and respond to natural language queries. It can be run locally on a machine using LM Studio or accessed via the internet using the Hugging Face API.
